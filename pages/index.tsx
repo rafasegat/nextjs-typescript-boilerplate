@@ -5,7 +5,7 @@ export default function Page() {
   return (
     <div className="homepage">
       <h1 className="mb-10">Homepage</h1>
-      <p>homepage</p>
+      <p>Here is the content...</p>
     </div>
   );
 }
