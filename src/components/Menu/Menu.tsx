@@ -41,31 +41,6 @@ const Menu: FC = () => {
           </Link>
         </li>
       </ul>
-      <ul className="social-menu">
-        <li>
-          <a
-            href="https://www.linkedin.com/in/merve-yarim-137273177/"
-            target="_blank"
-          >
-            <BaseIcon icon="LinkedIn" width="18.47" height="17.64" />
-          </a>
-        </li>
-        <li>
-          <a href="https://www.instagram.com/merveyarm/" target="_blank">
-            <BaseIcon icon="Instagram" width="21.807" height="21.207" />
-          </a>
-        </li>
-        <li>
-          <a href="https://www.behance.net/merveyarm" target="_blank">
-            <BaseIcon icon="Behance" width="25.937" height="16.523" />
-          </a>
-        </li>
-        <li>
-          <a href="https://dribbble.com/Merve-Yarim" target="_blank">
-            <BaseIcon icon="Dribbble" width="21.211" height="21.207" />
-          </a>
-        </li>
-      </ul>
     </div>
   );
 };

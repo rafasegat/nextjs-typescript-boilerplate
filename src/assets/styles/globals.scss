@@ -9,15 +9,6 @@
 @import "components/Menu/Menu.scss";
 @import "components/Header/Header.scss";
 @import "components/PageLayout/DefaultLayout/DefaultLayout.scss";
-@import "components/Sections/FrontpageBanner.scss";
-
-// Blocks
-@import "components/Blocks/GridImage/GridImage.scss";
-@import "components/Blocks/Music/Music.scss";
-
-// Slick
-@import "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.min.css";
-@import "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick-theme.min.css";
 
 body {
   font-family: "Rubik", sans-serif;
