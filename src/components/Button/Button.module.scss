@@ -1,0 +1,11 @@
+.component {
+  @apply flex items-center;
+}
+
+.primary {
+  @apply bg-gray text-black rounded-full px-7 py-2 m-0;
+  box-shadow: 0 3px 6px 0 rgba(58, 56, 56, 0.2);
+  &:hover {
+    @apply bg-black text-white;
+  }
+}

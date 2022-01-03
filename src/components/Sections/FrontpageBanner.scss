@@ -1,0 +1,33 @@
+.merve-image {
+  background-size: 75% !important;
+  height: 90vh !important;
+}
+.grass-image {
+  left: 100px;
+  top: -75px;
+  width: 70px;
+}
+
+// @media screen and (max-width: 1530px) {
+//   .merve-image {
+//     background-size: 90% !important;
+//     height: 90vh !important;
+//   }
+// }
+
+@media screen and (max-width: 765px) {
+  h1 {
+    line-height: 3.5rem;
+    margin-top: 40px;
+    text-align: center;
+  }
+  .merve-image {
+    background: none !important;
+    height: 360px !important;
+  }
+  .grass-image {
+    left: 15px !important;
+    top: -26px !important;
+    width: 42px !important;
+  }
+}

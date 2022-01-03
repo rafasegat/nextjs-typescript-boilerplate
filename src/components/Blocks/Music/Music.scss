@@ -1,0 +1,18 @@
+.music {
+  .spotify-iframe {
+    left: 120px;
+    top: -30px;
+  }
+}
+
+@media screen and (max-width: 765px) {
+  .music {
+    .spotify-iframe {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      left: inherit;
+      top: inherit;
+    }
+  }
+}
